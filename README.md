@@ -1,3 +1,3 @@
-# translation-CNN
+# translation-RNN
 
-Implement a CNN to translate English sentences to French
+Implement a RNN to translate English sentences to French
